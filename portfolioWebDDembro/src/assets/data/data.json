@@ -1,0 +1,93 @@
+{
+
+	"datosNavbar": [
+
+		{
+			"icono":"bi bi-linkedin",
+			"link": "https://www.linkedin.com/in/dembrowkynicolas"
+		},
+
+		{
+			"icono": "bi bi-github",
+			"link": "https://github.com/DDembro"
+		}
+		
+	],
+
+	"personal": {
+		"nombre": "Nicolas",
+		"apellido": "Dembrowky",
+		"fotoPerfil": "../assets/Imagenes/fotoNicolasDembrowky.jpg",
+		"descripcion": "Estudiante de sistemas UTN"
+	},
+
+	"acercaDe": {
+		"descripcion": "Soy un joven estudiante buscando expandir mis conocimientos y experiencia profesional. Tengo un amplio interés en Informática y Sistemas."
+	},
+
+	"educacion": [
+		{
+			"nombre": "UTN",
+			"fecha": "2023 - Actualidad",
+            "titulo": "Ingeniería en sistemas de la información"
+		},
+        
+		{
+			"nombre": "Instituto 13 de Julio",
+			"fecha": "2017 - 2022",
+            "titulo": "Técnico mecánico electricista"
+		},
+
+		{
+			"nombre": "Centro capacitación Edenor",
+			"fecha": "may. 2022 - nov. 2022",
+            "titulo": "Electricista de Media Tensión y distribución"
+		}
+    ],
+
+	"experiencia": [
+		{
+			"nombreEmpresa": "",
+			"fecha": "",
+            "cargo": "",
+			"descripcion": "Actualmente, no cuento con experiencia laboral y me encuentro a la búsqueda de un primer empleo"
+		}
+    ],
+
+	"habilidades": [
+
+        {
+            "skill": "Ingles Intermedio"
+        },
+            
+        {
+            "skill": "Programación en: C, C++, C#, JS"
+        },
+
+		{
+            "skill": "Maquetado Web (HTML/CSS)"
+        },
+
+		{
+            "skill": "Bases de datos relacionales (SQL)"
+        },
+
+		{
+            "skill": "GIT y GitHub"
+        },
+
+        {
+            "skill": "Electricidad"
+        }
+    ],
+
+	"proyectos": [
+		{
+			"nombre": "PortFolio Web",
+			"fecha": "oct. 2022 - may. 2023",
+			"descripcion": "El Portfolio Web de esta misma página, fue originalmente un proyecto para el curso Argentina Programa etapa 2 (#YoProgramo). En el cual trabajamos con tecnologías como: HTML, CSS, TypeScript, Angular, MySQL, y Spring Boot",
+			"link": "https://github.com/DDembro/PortfolioWeb"
+		}
+	]
+
+}

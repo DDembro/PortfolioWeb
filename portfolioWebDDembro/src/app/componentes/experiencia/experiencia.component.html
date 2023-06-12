@@ -1,0 +1,18 @@
+<div class="container my-3 p-3">
+
+    <h1 style="display: inline;">Experiencia</h1>
+
+    <p></p>
+
+    <ul>
+
+        <li *ngFor="let expe of exp" class="listaSinPuntos p-1">
+            <h2>{{expe.nombreEmpresa}}</h2>
+            <p style="display: inline;">{{expe.fecha}}</p>
+            <p>{{expe.cargo}}</p>
+            <p>{{expe.descripcion}}</p>
+        </li>
+
+    </ul>
+
+</div>

@@ -1,0 +1,27 @@
+TERMINAR FRONT, 
+
+[
+
+PANTALLA LOG IN (interfas
+
+crear un modal de bootstrap, que tenga un fade, campos para ingresar/registrarse.
+podriamos hacer que este cargado y simplemente hacerlo aparecer
+
+)
+
+FOOTER (terminar el boton de mail)
+
+]
+
+HACER BASE DE DATOS,
+HACER BACK,
+MONTAR TODO
+
+ERRORES Y COSAS QUE PREGUNTAR:
+
+seguridad por SQL inyection creando un nuevo admin
+el boton de log out no se actualiza bien
+como son los criterios de aprobacion
+hace falta dominio para hostear? y como lo hago
+
+CUANDO ENTREGO::::: Aclarar todo lo que dijo el profe que PIDIO y que NO PIDIO

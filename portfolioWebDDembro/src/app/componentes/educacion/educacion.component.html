@@ -1,0 +1,17 @@
+<div class="container my-3 p-3">
+
+    <h1 style="display: inline;">Estudios</h1>
+
+    <p></p>
+
+    <ul>
+
+        <li *ngFor="let educacion of edu" class="listaSinPuntos p-1">
+            <h2>{{educacion.nombre}}</h2>
+            <p style="display: inline;">{{educacion.fecha}}</p>
+            <p>{{educacion.titulo}}</p>
+        </li>
+
+    </ul>
+
+</div>
