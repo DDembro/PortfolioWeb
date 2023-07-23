@@ -76,8 +76,12 @@
             "skill": "GIT y GitHub"
         },
 
+		{
+            "skill": "Motor de juegos Unity"
+        },
+
         {
-            "skill": "Electricidad"
+            "skill": "Energía eléctrica"
         }
     ],
 
@@ -87,6 +91,13 @@
 			"fecha": "oct. 2022 - may. 2023",
 			"descripcion": "El Portfolio Web de esta misma página, fue originalmente un proyecto para el curso Argentina Programa etapa 2 (#YoProgramo). En el cual trabajamos con tecnologías como: HTML, CSS, TypeScript, Angular, MySQL, y Spring Boot",
 			"link": "https://github.com/DDembro/PortfolioWeb"
+		},
+
+		{
+			"nombre": "S.K.Y. Operation",
+			"fecha": "jun. 2023 - jul. 2023",
+			"descripcion": "Videojuego propio desarrollado en Unity, actualmente se encuentra en Beta. El código fuente del mismo se encuentra en mi perfil de GitHub.",
+			"link": "https://www.mediafire.com/file/1jy8rtdn8l1q9u9/S.K.Y._Operation_BETA_Installer.rar/file"
 		}
 	]
 
