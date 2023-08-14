@@ -47,10 +47,10 @@
 
 	"experiencia": [
 		{
-			"nombreEmpresa": "",
-			"fecha": "",
-            "cargo": "",
-			"descripcion": "Actualmente, no cuento con experiencia laboral y me encuentro a la búsqueda de un primer empleo"
+			"nombreEmpresa": "Randstad Argentina",
+			"fecha": "10 de ago. 2023 - 13 de ago. 2023",
+            "cargo": "Asistente técnico",
+			"descripcion": "Durante las elecciones PASO 2023 me ocupe de la recepción, preparación, reemplazo y mantenimiento de 17 equipos de votación y 3 bolsos de indumentaria, en el transcurso de los días jueves 10, sábado 12 y domingo 13 de agosto. Brindando apoyo técnico a las autoridades de mesa durante el transcurso de las elecciones y transmitiendo los resultados al centro de operaciones."
 		}
     ],
 
