@@ -47,6 +47,13 @@
 
 	"experiencia": [
 		{
+			"nombreEmpresa": "Cibits SRL",
+			"fecha": "oct. 2023 - Actualidad",
+            "cargo": "Desarrollador de software",
+			"descripcion": "Desempeño de diferentes actividades relacionados al mantenimiento y desarrollo de los sistemas informáticos de la empresa."
+		},
+
+		{
 			"nombreEmpresa": "Randstad Argentina",
 			"fecha": "10 de ago. 2023 - 13 de ago. 2023",
             "cargo": "Asistente técnico",
